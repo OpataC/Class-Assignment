@@ -111,3 +111,19 @@ footer{
 
 
 
+/**responsive**/
+
+  @media(max-with: 768px){
+   body{
+    background-color:blue;
+   }
+
+  }
+
+ nav li{
+    display: block;
+}
+
+
+
+
